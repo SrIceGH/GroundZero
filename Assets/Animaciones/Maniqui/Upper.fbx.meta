@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c487d40dd28cb2346a2ab05701d03237
+guid: ce49bba663e795f4ea63b03c9dcf7de5
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -31,11 +31,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Jab
+      name: Upper
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0
-      lastFrame: 118
+      lastFrame: 132
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
