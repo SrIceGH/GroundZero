@@ -3,22 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-// ─────────────────────────────────────────────
-//  ENUMS Y TIPOS DE SOPORTE
-// ─────────────────────────────────────────────
-
 public enum PhaseType
 {
-    Impact,     // Un golpe real con hitbox
+    Impact,     // Un golpe real, con hitbox
     Condition,  // Comprueba algo y salta a otra fase si se cumple
     Pause,      // Espera N segundos sin hacer nada
-    Event,      // Llama a una función / animación / sonido
-    ModeChange  // Activa o desactiva un PlayerMode
+    Event,      // Llama a una función / animación / sonido (Lo que sea)
+    ModeChange  // Activa o desactiva un "PlayerMode"
 }
 
 public enum AttackStyle
 {
-    Direct,     // Golpe recto, limpio
+    Direct,     // Golpe recto, limpio.
     Pendular    // Gancho, hayuco, movimiento en arco
 }
 
