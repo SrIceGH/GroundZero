@@ -7,7 +7,7 @@
             "id": "1d7efa5e-4fda-486a-b55f-69918b158fc6",
             "actions": [
                 {
-                    "name": "MovInZ",
+                    "name": "Mov",
                     "type": "Value",
                     "id": "b7532e30-6a09-4e0b-a8c5-8a135463bace",
                     "expectedControlType": "Vector2",
@@ -87,7 +87,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "MovInZ",
+                    "action": "Mov",
                     "isComposite": true,
                     "isPartOfComposite": false
                 },
@@ -98,7 +98,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "MovInZ",
+                    "action": "Mov",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -109,7 +109,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "MovInZ",
+                    "action": "Mov",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -120,7 +120,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "MovInZ",
+                    "action": "Mov",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },
@@ -131,7 +131,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "MovInZ",
+                    "action": "Mov",
                     "isComposite": false,
                     "isPartOfComposite": true
                 },

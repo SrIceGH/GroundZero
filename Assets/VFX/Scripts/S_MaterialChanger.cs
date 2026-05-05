@@ -3,7 +3,7 @@ using UnityEngine.InputSystem;
 
 public class S_MaterialChanger : MonoBehaviour
 {
-    [Header("Configuración")]
+    [Header("Configuraciï¿½n")]
     [SerializeField] Material targetMaterial;
     [SerializeField] string propertyName = "_Parameter";
     [SerializeField] float valueA = 0f;
